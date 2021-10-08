@@ -1,5 +1,7 @@
-# Welcome to my blog
+# Welcome to Nico's Blog
 
-### Thanks for stopping by.
+### Node.js programmer from the US 👨🏻‍💻
 
-My latest post can be found [here](?test)
+Main site: https://www.axthedev.xyz
+
+My index of posts can be found [here](?posts)
